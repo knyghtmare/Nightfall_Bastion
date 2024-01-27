@@ -1,5 +1,8 @@
 Nightfall Bastion
 =================
 
+v1.0.1
+--> buff crusader side gold
+
 v1.0.0
 --> Initial Release
