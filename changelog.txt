@@ -1,6 +1,9 @@
 Nightfall Bastion
 =================
 
+v1.0.2.1
+--> Added Bengali Translation
+
 v1.0.2
 --> Properly assign difficulty level names
 --> adjust gold for first 2 difficulties

@@ -1,0 +1,320 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-01-28 16:32 UTC\n"
+"PO-Revision-Date: 2024-01-29 HO:MI+ZONE\n"
+"Last-Translator: TAHSIN JAHIN KHALID <tahsinjahinkhalid@gmail.com>\n"
+"Language-Team: Bengali <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#. [scenario]: id=01_Nightfall_Bastion
+#: Nightfall_Bastion/_main.cfg:21
+#: Nightfall_Bastion/_main.cfg:9
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:5
+msgid "Nightfall Bastion"
+msgstr "নাইটফল ব্যাস্টিয়ন"
+
+#: Nightfall_Bastion/_main.cfg:10
+msgid "In the age-old Silver Lands of the Great Continent, the eternal Monarchy faces a pivotal moment. The vampire lord of Nightfall Bastion is besieged by crusaders from a human kingdom. This confrontation begs the question: will the vampires' superior strength triumph, or will the crusaders' determination lead them to victory?"
+msgstr "মহাদেশের প্রাচীন রৌপ্য ভূমিতে, চিরন্তন রাজতন্ত্র এক গুরুত্বপূর্ণ মুহূর্তের মুখোমুখি। নাইটফল ব্যাস্টিয়নের ভ্যাম্পায়ার প্রভু এক মানব রাজ্যের ক্রুসেডারদের দ্বারা ঘেরাও হয়েছে। এই সংঘর্ষে প্রশ্ন উঠেছে: ভ্যাম্পায়ারদের শ্রেষ্ঠ শক্তি জয়ী হবে, নাকি ক্রুসেডারদের দৃঢ় সংকল্প তাদের জয়ের দিকে নিয়ে যাবে?"
+
+#: Nightfall_Bastion/_main.cfg:11
+msgid "(Expert Level, 1 scenario)"
+msgstr "(বিশেষজ্ঞ স্তর, ১টি সিনারিও)"
+
+#: Nightfall_Bastion/_main.cfg:12
+msgid "This scenario features the Vampires."
+msgstr "এই সিনারিওতে ভ্যাম্পায়াররা উপস্থিত আছে।"
+
+#: Nightfall_Bastion/_main.cfg:13
+msgid "This scenario accepts donations on Ko-fi: https://ko-fi.com/tahsinjahinkhalid"
+msgstr "এই সিনারিও কো-ফাইতে দান গ্রহণ করে: https://ko-fi.com/tahsinjahinkhalid"
+
+#: Nightfall_Bastion/_main.cfg:14
+msgid "Feedback: https://discord.gg/rsePgjHRPA (Wesnoth Modders Guild)"
+msgstr "প্রতিক্রিয়া: https://discord.gg/rsePgjHRPA (ওয়েসনথ মডার্স গিল্ড)"
+
+#: Nightfall_Bastion/_main.cfg:15
+msgid "Requires <i>War of Legends</i> to be installed"
+msgstr "<i>ওয়ার অফ লিজেন্ডস</i> ইনস্টল করা প্রয়োজন"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#: Nightfall_Bastion/_main.cfg:22
+msgid "NB"
+msgstr "NB"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#: Nightfall_Bastion/_main.cfg:37
+msgid "Fighter"
+msgstr "যোদ্ধা"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#: Nightfall_Bastion/_main.cfg:37
+msgid "Challenging"
+msgstr "চ্যালেঞ্জিং"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#: Nightfall_Bastion/_main.cfg:38
+msgid "Commander"
+msgstr "কমান্ডার"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#: Nightfall_Bastion/_main.cfg:38
+msgid "Difficult"
+msgstr "কঠিন"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#: Nightfall_Bastion/_main.cfg:39
+msgid "Lord"
+msgstr "লর্ড"
+
+#. [campaign]: id=WOL_Nightfall_Bastion, description={NIGHTFALL_BASTION_DESCRIPTION}
+#: Nightfall_Bastion/_main.cfg:39
+msgid "Nightmare"
+msgstr "দুঃস্বপ্ন"
+
+#. [about]
+#: Nightfall_Bastion/about.cfg:4
+msgid "Author and Scenario Designer"
+msgstr "লেখক ও সিনারিও ডিজাইনার"
+
+#. [entry]
+#: Nightfall_Bastion/about.cfg:6
+msgid "Tahsin Jahin Khalid (Lord-Knyghtmare)"
+msgstr "তাহসিন জাহিন খালিদ (লর্ড-নাইটমেয়ার)"
+
+#. [achievement]: id=WoL_Nightfall_Bastion_Standard
+#: Nightfall_Bastion/achievements.cfg:9
+msgid "Defender of the Bastion"
+msgstr "ব্যাস্টিয়নের রক্ষক"
+
+#. [achievement]: id=WoL_Nightfall_Bastion_Standard
+#: Nightfall_Bastion/achievements.cfg:10
+msgid "Completed the scenario <i>Nightfall Bastion</i>."
+msgstr "<i>নাইটফল ব্যাস্টিয়ন</i> সিনারিও সম্পূর্ণ করেছে।"
+
+#. [achievement]: id=WoL_Nightfall_Bastion_Hard
+#: Nightfall_Bastion/achievements.cfg:16
+msgid "Sentinel of the Bastion"
+msgstr "ব্যাস্টিয়নের প্রহরী"
+
+#. [achievement]: id=WoL_Nightfall_Bastion_Hard
+#: Nightfall_Bastion/achievements.cfg:17
+msgid "Completed the scenario <i>Nightfall Bastion</i> on the highest difficulty."
+msgstr "<i>নাইটফল ব্যাস্টিয়ন</i> সিনারিও সর্বোচ্চ কঠিনাই মাত্রায় সম্পূর্ণ করেছে।"
+
+#. [blitz_attack]: id=blitz
+#: Nightfall_Bastion/macros/ability_events.cfg:6
+msgid "blitz"
+msgstr "ব্লিৎজ"
+
+#. [blitz_attack]: id=blitz
+#: Nightfall_Bastion/macros/ability_events.cfg:7
+msgid "This unit can attack twice in one turn."
+msgstr "এই ইউনিট এক পালায় দুইবার আক্রমণ করতে পারে।"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:78
+msgid "Potion of Blood"
+msgstr "রক্তের পোশাক"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:80
+msgid "This elixir, distilled from the essence of lifeblood itself, possesses the arcane power to mend our battle-worn flesh and restore our waning vigor."
+msgstr "জীবনের রক্তের সারাংশ থেকে নির্যাসিত এই অমৃত, যুদ্ধ-ক্লান্ত দেহ মেরামত এবং ক্ষীণ শক্তি পুনরুদ্ধারের জন্য গুপ্ত শক্তি রাখে।"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:81
+msgid "<span fgcolor='grey'><b>Fully heals the drinker.</b></span>"
+msgstr "<span fgcolor='grey'><b>পান করার ফলে পুরোপুরি সুস্থ হয়ে যায়।</b></span>"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:82
+#: Nightfall_Bastion/macros/items.cfg:143
+msgid "Drink It"
+msgstr "এটি পান করুন"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:83
+#: Nightfall_Bastion/macros/items.cfg:144
+msgid "Refuse It"
+msgstr "এটি প্রত্যাখ্যান করুন"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:139
+msgid "Potion of Unknown Effect"
+msgstr "অজানা প্রভাবের পোশাক"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:141
+msgid "It is not certain what effect this yellowish liquid can have on the drinker"
+msgstr "এই হলুদাভ তরলের পানকারীর উপর কী প্রভাব ফেলতে পারে তা নিশ্চিত নয়"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:142
+msgid "<span fgcolor='grey'><b>Effect Not Known</b></span>"
+msgstr "<span fgcolor='grey'><b>প্রভাব অজানা</b></span>"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:204
+msgid "Strange Amulet"
+msgstr "অদ্ভুত তাবিজ"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:206
+msgid "This amulet, forged from the bones of a mystical creature, hums with ancient energy; merely touching it suffuses one with a rejuvenating aura of untold power."
+msgstr "এই তাবিজটি, এক রহস্যময় প্রাণীর হাড় দিয়ে গড়া, প্রাচীন শক্তি দ্বারা গুঞ্জন করে; কেবল এটি স্পর্শ করলেই অবর্ণনীয় শক্তির এক পুনরুজ্জীবিত আভা দেহে ছড়িয়ে পড়ে।"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:207
+msgid "<span fgcolor='grey'><b>Gain Blitz Ability</b></span>"
+msgstr "<span fgcolor='grey'><b>ব্লিৎজ ক্ষমতা অর্জন</b></span>"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:208
+msgid "Wear It"
+msgstr "এটি পরুন"
+
+#. [item_dialog]: description=<i>
+#: Nightfall_Bastion/macros/items.cfg:209
+msgid "Leave It"
+msgstr "এটি ছেড়ে দিন"
+
+#. [time]: id=underground_illum
+#: Nightfall_Bastion/macros/schedules.cfg:7
+msgid "Underground (Illuminated)"
+msgstr "ভূগর্ভস্থ (আলোকিত)"
+
+#. [part]
+#: Nightfall_Bastion/macros/story.cfg:12
+msgid "In the Silver Lands of the Great Continent, Nightfall Bastion, a fortress steeped in history and under occupation by the vampires, stands as a symbol of the eternal Monarchy's power. Built from enchanted stones and holding centuries of vampire legacy, the Bastion has been an unbreachable sanctuary."
+msgstr "মহাদেশের রৌপ্য ভূমিতে, নাইটফল ব্যাস্টিয়ন, একটি ঐতিহাসিক দুর্গ এবং ভ্যাম্পায়ারদের দখলে, চিরন্তন রাজতন্ত্রের ক্ষমতার প্রতীক হিসেবে দাঁড়িয়ে আছে। মায়াবী পাথর দিয়ে নির্মিত এবং শতাব্দীর ভ্যাম্পায়ার ঐতিহ্য ধারণকারী, ব্যাস্টিয়ন একটি অভেদ্য আশ্রয় হয়ে আছে।"
+
+#. [part]
+#: Nightfall_Bastion/macros/story.cfg:16
+msgid "However, it now faces a dire threat. A determined army of crusaders from the human kingdoms has laid siege to the fortress, challenging the vampires' might with their unwavering faith and strategic skill. As tensions rise, the fate of Nightfall Bastion hangs in the balance, poised between the vampires' ancient strength and the crusaders' resolve..."
+msgstr "তবে এখন এটি এক ভয়াবহ হুমকির মুখোমুখি। মানব রাজ্যের এক সংকল্পবদ্ধ ক্রুসেডার সেনাবাহিনী দুর্গটিকে ঘেরাও করেছে, ভ্যাম্পায়ারদের শক্তির সাথে তাদের অটল বিশ্বাস এবং কৌশলগত দক্ষতার চ্যালেঞ্জ জানিয়েছে। চাপ বাড়ার সাথে সাথে, নাইটফল ব্যাস্টিয়নের ভাগ্য দোলাচলে রয়েছে, ভ্যাম্পায়ারদের প্রাচীন শক্তি এবং ক্রুসেডারদের দৃঢ় সংকল্পের মাঝে দাঁড়িয়ে।"
+
+#. [side]: id=Jarlath, type=Sire
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:47
+msgid "Lord Jarlath"
+msgstr "লর্ড জারলাথ"
+
+#. [side]: id=Jarlath, type=Sire
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:62
+msgid "team_name^Vampires"
+msgstr "ভ্যাম্পায়াররা"
+
+#. [side]: id=Crusader1, type=Crusader
+#. [side]: id=Crusader2, type=Crusader
+#. [side]: id=Crusader3, type=Crusader
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:102
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:139
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:176
+msgid "team_name^Loyalists"
+msgstr "অনুগতজন"
+
+#. [objective]: condition=win
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:240
+msgid "Defeat the Crusaders"
+msgstr "ক্রুসেডারদের পরাজিত করুন"
+
+#. [objective]: condition=lose
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:245
+msgid "Defeat of Lord Jarlath"
+msgstr "লর্ড জারলাথের পরাজয়"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:370
+msgid "What urgent matter disrupts my eternal contemplation? Speak swiftly."
+msgstr "কোন জরুরি বিষয় আমার চিরন্তন চিন্তাধারাকে ব্যাহত করেছে? দ্রুত বলুন।"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:372
+msgid "My Sovereign! Our sanctum is under siege! The daywalkers have amassed, their intent clear; our annihilation!"
+msgstr "আমার সম্রাট! আমাদের পবিত্র স্থান ঘেরাও অবস্থায় রয়েছে! দিনের প্রহরীরা জমায়েত হয়েছে, তাদের উদ্দেশ্য স্পষ্ট; আমাদের ধ্বংস!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:374
+msgid "Ah, the mortals dare challenge the night itself? How... quaintly amusing..."
+msgstr "আহ, মর্ত্যজনেরা রাত্রির নিজের সাথে চ্যালেঞ্জ নিয়েছে? কী... অদ্ভুত মজার..."
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:376
+msgid "Children of the Eternal Eclipse! Rise! Let us enlighten these veinborn pretenders on the folly of their insolence against their ageless overlords!"
+msgstr "চিরন্তন গ্রহণের সন্তানেরা! উঠুন! আসুন আমরা এই রক্তজাত প্রতারকদের তাদের অহংকারের মূর্খতা সম্পর্কে অবহিত করি এবং তাদের অকালজাত অধিপতিদের বিরুদ্ধে বিদ্রোহের ফল দেখাই।"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:383
+msgid "Courageous warriors, today we stand united, not for glory, but for a righteous cause. Our strength is our unyielding spirit and unwavering faith. In the face of darkness, we are the bearers of light, guardians of the innocent. As we march into battle, let our shared conviction guide and protect us. Together, we fight for our families, our people, and a future bathed in light. Onward, for a victory that will echo through the ages!"
+msgstr "সাহসী যোদ্ধারা, আজ আমরা একত্রিত হয়েছি, গৌরবের জন্য নয়, বরং একটি ধর্মীয় উদ্দেশ্যের জন্য। আমাদের শক্তি হল আমাদের অনমনীয় আত্মা এবং অবিচল বিশ্বাস। অন্ধকারের মুখোমুখি, আমরা আলোর বাহক, নিরপরাধের রক্ষক। যুদ্ধে অগ্রসর হতে হতে, আমাদের সামঞ্জস্যপূর্ণ বিশ্বাস আমাদের পথ নির্দেশ করুক এবং রক্ষা করুক। একসাথে, আমরা আমাদের পরিবার, আমাদের জনগণ এবং আলোয় স্নাত একটি ভবিষ্যতের জন্য লড়াই করি। এগিয়ে যান, একটি বিজয়ের জন্য যা যুগের মধ্যে প্রতিধ্বনি হবে!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:402
+msgid "Unleash the might of our seasoned warriors!"
+msgstr "আমাদের অভিজ্ঞ যোদ্ধাদের শক্তি মুক্তি দিন!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:443
+msgid "Advance, elite guardians of the light! Let us cleanse this land of the vampire scourge!"
+msgstr "এগিয়ে যান, আলোর অভিজাত রক্ষক! আসুন আমরা এই ভূমি থেকে ভ্যাম্পায়ারের অভিশাপ পরিষ্কার করি!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:497
+msgid "Beware, my nocturnal kin. The crusaders are cunning, with hidden reserves lurking. Do not underestimate their deceptive tactics. Stay vigilant and ruthless."
+msgstr "সাবধান থাকো, আমার রাত্রিকালীন আত্মীয়রা। ক্রুসেডাররা চালাক, তাদের গোপন সেনাবাহিনী ওত পেতে আছে। তাদের প্রতারণামূলক কৌশলগুলিকে হালকাভাবে নেবেন না। সজাগ ও নির্দয় থাকুন।"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:503
+msgid "Do these veinborn still dare to challenge our eternal might?"
+msgstr "এই রক্তজাতরা কি এখনও আমাদের চিরন্তন শক্তির সাথে চ্যালেঞ্জ নিতে সাহসী?"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:509
+msgid "Enough! My children of the night, sweep these interlopers into oblivion. Their resistance wearies me."
+msgstr "বাহ! আমার রাতের সন্তানেরা, এই অনুপ্রবেশকারীদের ভুলে যাওয়ার মধ্যে ঝাঁটা দিয়ে সরিয়ে দাও। তাদের প্রতিরোধ আমাকে ক্লান্ত করেছে।"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:521
+msgid "<i>(coughing blood)</i> Damn...it all! They have taken...the Bastion!"
+msgstr "<i>(রক্ত কাশি)</i> ধিক্... সবকিছু! তারা নিয়ে গেছে...ব্যাস্টিয়নকে!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:551
+msgid "Ho Ho! I see that you blood-sucking vermin have reached my keep. No matter, my reserve forces shall deal with you!"
+msgstr "হা হা! আমি দেখতে পাচ্ছি যে তোমরা রক্তচোষা পোকামাকড় আমার দুর্গে পৌঁছে গেছো। কোনো ব্যাপার না, আমার সাহায্যকারী বাহিনী তোমাদের সাথে মোকাবিলা করবে!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:574
+msgid "Ah, the leeches of the night grace my camp! Fear not, for my hidden legions await to cleanse this blight!"
+msgstr "আহ, রাতের জোঁকেরা আমার শিবিরে এসেছে! ভয় পাবেন না, আমার গোপন সেনাবাহিনী এই অশুভ পরিস্কার করার জন্য অপেক্ষা করছে!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:597
+msgid "Ha! The night's pests swarm my encampment. Worry not, my reserve army stands ready to sweep you into oblivion!"
+msgstr "হা! রাতের পোকামাকড় আমার শিবিরে ভিড় করেছে। চিন্তা করবেন না, আমার সাহায্যকারী সেনাবাহিনী তোমাদের ভুলে যাওয়ার মধ্যে নিয়ে যেতে প্রস্তুত!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:616
+msgid "In defeat, I see the strength of our faith tested. We shall rise again, stronger and more resolute in our holy mission."
+msgstr "পরাজয়ে, আমি আমাদের বিশ্বাসের শক্তি পরীক্ষিত হতে দেখি। আমরা আবার উঠবো, আমাদের পবিত্র মিশনে আরও শক্তিশালী ও দৃঢ়প্রতিজ্ঞ।"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:627
+msgid "Though we falter today, the light guides us towards future victories. Our cause is just, and our resolve unshaken."
+msgstr "যদিও আমরা আজ ব্যর্থ হয়েছি, আলো আমাদের ভবিষ্যতের জয়ের দিকে নির্দেশ করে। আমাদের কারণ ন্যায়সঙ্গত, এবং আমাদের সংকল্প অটুট।"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:638
+msgid "This loss but tempers our spirit. We shall regroup, learn, and return with divine fury. Our crusade is far from over!"
+msgstr "এই পরাজয় কেবল আমাদের আত্মাকে শানিত করে। আমরা পুনরায় সংগঠিত হব, শিখব, এবং দৈবিক ক্রোধ নিয়ে ফিরে আসব। আমাদের ধর্মযুদ্ধ এখনও শেষ হয়নি!"
+
+#. [event]
+#: Nightfall_Bastion/scenarios/Nightfall_Bastion.cfg:645
+msgid "My immortal brethren, behold our might! Three armies of the crusaders have fallen! In the darkness, we are unvanquished. To victory, eternal!"
+msgstr "আমার অমর ভাইয়েরা, আমাদের শক্তি দেখুন! ক্রুসেডারদের তিনটি সেনাবাহিনী পরাজিত হয়েছে! অন্ধকারে, আমরা অজেয়। অনন্ত বিজয়ের পথে!"
+
