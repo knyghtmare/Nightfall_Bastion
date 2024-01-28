@@ -1,6 +1,14 @@
 Nightfall Bastion
 =================
 
+v1.0.2
+--> Properly assign difficulty level names
+--> adjust gold for first 2 difficulties
+--> give player side leader traits: 3 of them
+--> replaced HP, +dmg, and MP potions with blood healing potions
+--> added more blood healing potion
+--> added 3 blitz amulets
+
 v1.0.1
 --> buff crusader side gold
 
