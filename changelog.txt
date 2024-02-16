@@ -3,6 +3,7 @@ Nightfall Bastion
 
 v1.0.3
 --> Fix ability blitz not working properly
+--> update description of blitz
 --> potion yellow: fix typo in description
 --> Add missing recruitment types for the Crusaders
 
