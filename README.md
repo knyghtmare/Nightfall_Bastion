@@ -10,5 +10,5 @@ _In the age-old Silver Lands of the Great Continent, the eternal Monarchy faces 
 
 ## Dependencies
 
-- Battle for Wesnoth 1.18.0
+- Battle for Wesnoth
 - War of Legends
