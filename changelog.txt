@@ -1,6 +1,9 @@
 Nightfall Bastion
 =================
 
+v1.0.4
+--> fixed a missing portrait bug
+
 v1.0.3
 --> Fix ability blitz not working properly
 --> update description of blitz
